@@ -1,0 +1,11 @@
+D:\ASP.NET Core\CalcAPI\OA.Services\bin\Debug\netcoreapp3.0\OA.Services.deps.json
+D:\ASP.NET Core\CalcAPI\OA.Services\bin\Debug\netcoreapp3.0\OA.Services.dll
+D:\ASP.NET Core\CalcAPI\OA.Services\bin\Debug\netcoreapp3.0\OA.Services.pdb
+D:\ASP.NET Core\CalcAPI\OA.Services\bin\Debug\netcoreapp3.0\OA.Data.dll
+D:\ASP.NET Core\CalcAPI\OA.Services\bin\Debug\netcoreapp3.0\OA.Data.pdb
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.csprojAssemblyReference.cache
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.AssemblyInfoInputs.cache
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.AssemblyInfo.cs
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.csproj.CopyComplete
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.dll
+D:\ASP.NET Core\CalcAPI\OA.Services\obj\Debug\netcoreapp3.0\OA.Services.pdb
